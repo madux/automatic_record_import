@@ -1,0 +1,5 @@
+	0	1	   2		3     4      5	      6    7      8       9               10    11       12		13
+MEMBER ID, DEPENDANT ID, SURNAME, FIRSTNAME,MODE,DATEOFBIRTH,SEX,EMAIL,MOBILE,CUSTOMERNUMBER, ADDRESS, country, MARITALSTATUS,RELATIONSHIO
+112,C01,ADURVA, PRASAD,junior,29-12-2008,Male,adr@gmail.com,070709302,001299/c01,5 eastern street,Nigeria,Married,Spouse
+112,C02,ADURVA, CHINWE,junior,29-12-2008,Female,adrian@gmail.com,0707840302,021299/c02,5 lugard street,Nigeria,Single,Brother
+113,C03,ODUNZE, UGOCHUKWU,junior,29-12-2008,Male,cozy@gmail.com,0705040302,001499/c03,5 parter street,Nigeria,Married,Spouse

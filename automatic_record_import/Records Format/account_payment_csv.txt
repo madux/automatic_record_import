@@ -1,0 +1,2 @@
+Customer Name,Amount,Journal Name,Journal type(sale,purchase,cash,bank,general),Debit account, Credit account, Reference,Payment Date,Payment Type(e.g. inbound,outbound,transfer),Customer Type(e.g. supplier,customer), Payment method name,
+Maduka Sopulu,400000,Sopulu Journ,sale,Sopulu Expense, Sopulu Income,Payment for features,1989-06-16,inbound,customer,Sopulu method,
